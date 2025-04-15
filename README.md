@@ -1,11 +1,13 @@
 # Solar-Cell-Efficiency-Model
 
-Problem Statement
+Problem Statement:
+
 Develop a predictive model to estimate solar cell efficiency under varying weather conditions
 such as humidity, rain, cloud cover, and temperature, while analyzing their impact on key
 performance metrics like power output and energy yield.
 
-Abstract
+Abstract:
+
 In this study, we developed a predictive model using the XGBoost algorithm to estimate solar
 cell efficiency under varying weather conditions. The dataset, sourced from Kaggle and
 originally web-scraped from pvoutput.org, was enriched with key environmental features
